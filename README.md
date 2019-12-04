@@ -1,0 +1,4 @@
+-Selenium Web Driver kullanılmıştır
+-Cucumber framework kullanılmıştır.
+-Pozitif ve birkaç negatif case otomatize edilmiştir.
+-Projede feature dosyasında Gherkin dili ile yazılmış Case'leri görebilirsiniz.
